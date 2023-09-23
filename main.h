@@ -19,7 +19,7 @@ i#ifndef MAIN_H
 #define S_SHORT 1
 
 /**
- * struct fmt - Struct op
+ * struct fmt - Struct p
  * by Jean Baptiste Muhayimana and Shehab Magdy
  *
  * @fmt: The format.
